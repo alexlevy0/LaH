@@ -1,2 +1,0 @@
-# LaH
-Created with CodeSandbox
